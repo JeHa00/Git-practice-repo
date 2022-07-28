@@ -1,0 +1,20 @@
+- name: joo
+
+- Carrer:  1 years 6 months
+
+- Position: Junior on Server developer 
+
+- skill:
+  - python
+  - Django
+  - PostgreSQL
+  - AWS
+  - Docker  
+  - kubernetes
+
+- Education:
+  - B.S in Engineering of Computer Science
+  - Bootcamp 6 months course 
+
+- team:
+  - a team to write resumee API
