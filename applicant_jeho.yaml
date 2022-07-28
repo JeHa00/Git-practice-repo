@@ -1,4 +1,4 @@
-- name: Jomura saki
+- name: jeho Kim
 
 - Carrer:  1 years
 
@@ -6,7 +6,7 @@
 
 - skill:
   - python
-  - Django
-  - PostgreSQL
+  - FastAPI
+  - MySQL
   - AWS 
 
