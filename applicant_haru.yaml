@@ -1,6 +1,6 @@
 - name: haru Jung
 
-- Carrier:  0 years
+- Carrier:  1 years
 
 - Position: Junior on Server developer 
 
@@ -9,6 +9,7 @@
   - FastAPI
   - MySQL
   - AWS 
+  - javascript
 
 - Education:
   - B.S in Engineering of Computer Science
@@ -16,3 +17,4 @@
 
 - team:
   - a team to write resumee API
+  - a team to connect applicants to recruiter
