@@ -1,0 +1,20 @@
+- name: toto
+
+- Career:  6 months
+
+- Position: Junior on Server developer 
+
+- skill:
+  - python
+  - FastAPI
+  - MySQL
+  - AWS 
+  - javascript
+
+- Education:
+  - B.S in Aerospace and Mechanical engineering 
+  - 7 months on Python backend mentoring program
+  
+- team:
+  - a team to write a resume API
+  - a team to connect applicants to recruiter
